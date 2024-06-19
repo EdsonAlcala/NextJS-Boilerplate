@@ -12,7 +12,7 @@ A simple boilerplate to create DApps in EVM Chains.
 ## Getting Started
 
 ```bash
-$ git clone https://github.com/EdsonAlcala/NextJS-Boilerplate.git
+$ git clone https://github.com/MachinaLabs/NextJS-Boilerplate.git
 
 $ nvm use
 
